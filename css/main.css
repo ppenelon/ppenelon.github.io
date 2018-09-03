@@ -1,0 +1,8 @@
+@font-face {
+    font-family: "Arcade";
+    src: url("../fonts/arcade.ttf");
+}
+
+body{
+    background-color: #20345f;
+}
